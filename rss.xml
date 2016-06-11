@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[comp735]]></title>
         <description><![CDATA[comp735]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/comp735/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 13:10:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 11 Jun 2016 13:14:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/comp735/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>comp735 ™ LLC is a photography and graphic design company focused on getting you "simply noticed" without breaking your wallet...</p>]]></description>
-            <link>undefinedcomp735-tm-llc-is-a-photography-and-graphic-design-company-fo/index.html</link>
+            <link>https://thegrid.ai/comp735/comp735-tm-llc-is-a-photography-and-graphic-design-company-fo/index.html</link>
             <guid isPermaLink="false">7dada0c2-4651-443e-8a3c-a06e0ae84c5f</guid>
             <pubDate>Sat, 11 Jun 2016 13:10:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/comp735/cadffc82-52c2-4717-b22e-97821b608e4d/index.html</link>
+            <guid isPermaLink="false">cadffc82-52c2-4717-b22e-97821b608e4d</guid>
+            <pubDate>Sat, 11 Jun 2016 13:14:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
