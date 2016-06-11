@@ -1,7 +1,7 @@
 name: comp735
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.11247979803010821
+typography_spectrum: 0.66096
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#fffeff'
     - '#e5262f'
     - '#f0952d'
-  brandStrength: 0.1495646140538156
-  lightness: 0.4425450274720788
-  saturation: 0.9544217751827091
-  rhythmicContrast: 0.07523752632550895
+  brandStrength: 0
+  lightness: 0.4375
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
